@@ -10,7 +10,7 @@ Select Text → Click "Ask ChatGPT" → Get AI Assistance
 
 ### Selecting Text and Ask Button
 
-![Selection](assets-selection.png)
+![Selection](assets/assets-autosend.png)
 
 
 ### Prompt Auto Send
