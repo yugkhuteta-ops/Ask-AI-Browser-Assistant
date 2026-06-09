@@ -6,6 +6,17 @@ Instead of manually copying text, opening ChatGPT, pasting content, and writing 
 
 Select Text → Click "Ask ChatGPT" → Get AI Assistance
 
+## Demo
+
+### Selecting Text and Ask Button
+
+![Selection](assets-selection.png)
+
+
+### Prompt Auto Send
+
+![Autosend](assets-autosend.png)
+
 ---
 
 # Why I Built This
